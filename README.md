@@ -88,6 +88,6 @@ git commit -m "Initial Commit - Industrial PLC Conveyor Sorting Simulator"
 
 git branch -M main
 
-git remote add origin https://github.com/YOUR_USERNAME/industrial-plc-conveyor-sorting-simulator.git
+git remote add origin https://github.com/ghulamrasool29/industrial-plc-conveyor-sorting-simulator.git
 
 git push -u origin main
